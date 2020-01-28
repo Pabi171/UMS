@@ -1,2 +1,2 @@
-# DBFirstUsingEFCore
-In this project i will demo the database first approach using EF core 
+# UMS
+In this project we will demo university Managment System 
